@@ -1,4 +1,4 @@
-# Memorising Tool Project
+# Memorizing Tool Project
 
 ### Tool for memorizing flaschards.
 
