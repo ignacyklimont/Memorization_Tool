@@ -1,5 +1,6 @@
+### Python 3.10 and SQLite (implemented via SQLAlchemy)
+
 # Memorizing Tool Project
 
-### Tool for memorizing flaschards.
+Tool for memorizing flashcards.
 
-Programming language: Python and SQL.
